@@ -1,0 +1,30 @@
+Index,Age,Salary,Rating,Location,Established,Easy Apply
+0,44,71.5,5.0,India,1999.0,TRUE
+1,66,60.5,4.0,New York,2002.0,TRUE
+2,39,83.0,4.0,New York,Unknown,FALSE
+3,64,71.5,4.0,India In,1988.0,FALSE
+4,25,71.5,6.0,Australia Aus,2002.0,FALSE
+5,44,83.0,1.0,India,1999.0,TRUE
+6,21,71.5,0.0,New York,Unknown,FALSE
+7,44,71.5,4.0,Australia Aus,Unknown,FALSE
+8,35,71.5,5.0,New York,Unknown,FALSE
+9,22,71.5,8.0,India,Unknown,TRUE
+10,55,29.5,5.0,India,2008.0,TRUE
+11,44,29.5,7.0,India,2009.0,FALSE
+12,39,71.5,0.0,India,1999.0,FALSE
+13,25,71.5,4.0,Australia Aus,2019.0,TRUE
+14,66,71.5,4.0,Australia Aus,2020.0,TRUE
+15,44,94.5,3.0,Australia Aus,1999.0,FALSE
+16,19,29.5,4.0,India,1984.0,FALSE
+17,39,71.5,5.0,New York,1943.0,TRUE
+18,35,71.5,7.0,New York,1954.0,TRUE
+19,32,71.5,3.0,New York,1955.0,TRUE
+20,39,71.5,6.0,New York,1944.0,TRUE
+21,35,71.5,5.0,New York,1946.0,FALSE
+22,19,60.5,8.0,New York,1988.0,TRUE
+23,39,71.5,2.0,New York,1999.0,TRUE
+24,13,71.5,4.0,New York,1987.0,FALSE
+25,55,71.5,0.0,Australia Aus,1980.0,TRUE
+26,39,60.5,4.0,India,1934.0,TRUE
+27,52,71.5,5.0,India,1935.0,FALSE
+28,39,63.5,3.0,Australia Aus,1932.0,FALSE
